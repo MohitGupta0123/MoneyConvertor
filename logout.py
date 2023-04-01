@@ -1,1 +1,1 @@
-print("Logout page")
+print("Logout pages")
